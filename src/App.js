@@ -9,8 +9,8 @@ function App() {
     <div>
       <Sidebar />
       <Header />
-      <Main/>
-      <Footer/>
+      <Main />
+      <Footer />
     </div>
   );
 }
